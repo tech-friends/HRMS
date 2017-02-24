@@ -1,6 +1,10 @@
 language: java
 jdk:
   - oraclejdk8
+services:
+  - postgresql
+before_script:
+  - psql -c 'create database hrms;' -U postgres
 # git strips the wrapper jar file so we have to force its download during the build
 install:
 - mvn -N io.takari:maven:wrapper
