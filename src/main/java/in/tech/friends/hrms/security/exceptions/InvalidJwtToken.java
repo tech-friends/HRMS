@@ -3,7 +3,7 @@ package in.tech.friends.hrms.security.exceptions;
 /**
  * JwtTokenNotValid
  * 
- * @author vladimir.stankovic
+ * @author Sanjeet
  *
  * Aug 17, 2016
  */

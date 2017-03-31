@@ -7,9 +7,9 @@ import in.tech.friends.hrms.security.model.token.JwtToken;
 
 /**
  * 
- * @author vladimir.stankovic
+ * @author Sanjeet
  *
- * Aug 3, 2016
+ * Feb 5 2017
  */
 public class JwtExpiredTokenException extends AuthenticationException {
     private static final long serialVersionUID = -5959543783324224864L;

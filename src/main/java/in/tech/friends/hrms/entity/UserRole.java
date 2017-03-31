@@ -13,7 +13,7 @@ import javax.persistence.Table;
 /**
  * UserRole
  * 
- * @author vladimir.stankovic
+ * @author Sanjeet
  *
  *         Aug 18, 2016
  */

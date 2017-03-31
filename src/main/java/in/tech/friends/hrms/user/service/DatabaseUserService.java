@@ -12,7 +12,7 @@ import in.tech.friends.hrms.user.repository.UserRepository;
 /**
  * Mock implementation.
  * 
- * @author vladimir.stankovic
+ * @author Sanjeet
  *
  * Aug 4, 2016
  */

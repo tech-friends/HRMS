@@ -28,9 +28,9 @@ import in.tech.friends.hrms.security.exceptions.AuthMethodNotSupportedException;
 /**
  * AjaxLoginProcessingFilter
  * 
- * @author vladimir.stankovic
+ * @author Sanjeet
  *
- * Aug 3, 2016
+ * Feb 5 2017
  */
 public class AjaxLoginProcessingFilter extends AbstractAuthenticationProcessingFilter {
     private static Logger logger = LoggerFactory.getLogger(AjaxLoginProcessingFilter.class);

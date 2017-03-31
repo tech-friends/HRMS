@@ -24,7 +24,7 @@ import in.tech.friends.hrms.security.model.token.RawAccessJwtToken;
 /**
  * Performs validation of provided JWT Token.
  * 
- * @author vladimir.stankovic
+ * @author Sanjeet
  *
  * Aug 5, 2016
  */

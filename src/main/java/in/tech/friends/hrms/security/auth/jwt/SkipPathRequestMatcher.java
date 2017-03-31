@@ -13,7 +13,7 @@ import org.springframework.util.Assert;
 /**
  * SkipPathRequestMatcher
  * 
- * @author vladimir.stankovic
+ * @author Sanjeet
  *
  * Aug 19, 2016
  */

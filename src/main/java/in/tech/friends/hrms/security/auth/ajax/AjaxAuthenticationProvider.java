@@ -24,9 +24,9 @@ import in.tech.friends.hrms.user.service.DatabaseUserService;
 
 /**
  * 
- * @author vladimir.stankovic
+ * @author Sanjeet
  *
- * Aug 3, 2016
+ * Feb 5 2017
  */
 @Component
 public class AjaxAuthenticationProvider implements AuthenticationProvider {

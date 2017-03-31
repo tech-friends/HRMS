@@ -12,7 +12,7 @@ import in.tech.friends.hrms.security.model.token.RawAccessJwtToken;
  * An {@link org.springframework.security.core.Authentication} implementation
  * that is designed for simple presentation of JwtToken.
  * 
- * @author vladimir.stankovic
+ * @author Sanjeet
  *
  *         May 23, 2016
  */

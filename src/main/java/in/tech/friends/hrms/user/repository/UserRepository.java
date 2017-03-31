@@ -11,7 +11,7 @@ import in.tech.friends.hrms.entity.User;
 /**
  * UserRepository
  * 
- * @author vladimir.stankovic
+ * @author Sanjeet
  *
  * Aug 16, 2016
  */

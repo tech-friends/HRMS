@@ -2,7 +2,7 @@ package in.tech.friends.hrms.security.auth.jwt.verifier;
 
 /**
  * 
- * @author vladimir.stankovic
+ * @author Sanjeet
  *
  * Aug 17, 2016
  */

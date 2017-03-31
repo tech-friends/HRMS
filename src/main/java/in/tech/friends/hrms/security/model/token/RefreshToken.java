@@ -12,7 +12,7 @@ import io.jsonwebtoken.Jws;
 /**
  * RefreshToken
  * 
- * @author vladimir.stankovic
+ * @author Sanjeet
  *
  * Aug 19, 2016
  */

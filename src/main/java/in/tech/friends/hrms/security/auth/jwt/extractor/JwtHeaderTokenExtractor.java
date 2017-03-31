@@ -8,7 +8,7 @@ import org.springframework.stereotype.Component;
  * An implementation of {@link TokenExtractor} extracts token from
  * Authorization: Bearer scheme.
  * 
- * @author vladimir.stankovic
+ * @author Sanjeet
  *
  * Aug 5, 2016
  */

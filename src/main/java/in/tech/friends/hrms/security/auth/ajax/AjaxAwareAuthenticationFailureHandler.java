@@ -23,9 +23,9 @@ import in.tech.friends.hrms.security.exceptions.JwtExpiredTokenException;
 
 /**
  * 
- * @author vladimir.stankovic
+ * @author Sanjeet
  *
- * Aug 3, 2016
+ * Feb 5 2017
  */
 @Component
 public class AjaxAwareAuthenticationFailureHandler implements AuthenticationFailureHandler {

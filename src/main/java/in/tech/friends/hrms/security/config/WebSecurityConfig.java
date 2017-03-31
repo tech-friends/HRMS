@@ -30,9 +30,9 @@ import in.tech.friends.hrms.security.auth.jwt.extractor.TokenExtractor;
 /**
  * WebSecurityConfig
  * 
- * @author vladimir.stankovic
+ * @author Sanjeet
  *
- * Aug 3, 2016
+ * Feb 5 2017
  */
 @Configuration
 @EnableWebSecurity

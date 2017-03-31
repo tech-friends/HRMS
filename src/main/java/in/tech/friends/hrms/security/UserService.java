@@ -7,7 +7,7 @@ import in.tech.friends.hrms.entity.User;
 
 /**
  * 
- * @author vladimir.stankovic
+ * @author Sanjeet
  *
  * Aug 17, 2016
  */

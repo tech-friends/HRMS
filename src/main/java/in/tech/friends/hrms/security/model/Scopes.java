@@ -3,7 +3,7 @@ package in.tech.friends.hrms.security.model;
 /**
  * Scopes
  * 
- * @author vladimir.stankovic
+ * @author Sanjeet
  *
  * Aug 18, 2016
  */

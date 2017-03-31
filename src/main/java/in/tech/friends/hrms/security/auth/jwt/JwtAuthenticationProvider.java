@@ -22,7 +22,7 @@ import io.jsonwebtoken.Jws;
  * An {@link AuthenticationProvider} implementation that will use provided
  * instance of {@link JwtToken} to perform authentication.
  * 
- * @author vladimir.stankovic
+ * @author Sanjeet
  *
  * Aug 5, 2016
  */

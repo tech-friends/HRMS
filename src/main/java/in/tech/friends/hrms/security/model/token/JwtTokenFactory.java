@@ -19,7 +19,7 @@ import io.jsonwebtoken.SignatureAlgorithm;
 /**
  * Factory class that should be always used to create {@link JwtToken}.
  * 
- * @author vladimir.stankovic
+ * @author Sanjeet
  *
  * May 31, 2016
  */

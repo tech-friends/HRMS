@@ -7,7 +7,7 @@ import io.jsonwebtoken.Claims;
 /**
  * Raw representation of JWT Token.
  * 
- * @author vladimir.stankovic
+ * @author Sanjeet
  *
  *         May 31, 2016
  */

@@ -37,7 +37,7 @@ import in.tech.friends.hrms.security.model.token.RefreshToken;
 /**
  * RefreshTokenEndpoint
  * 
- * @author vladimir.stankovic
+ * @author Sanjeet
  *
  * Aug 17, 2016
  */

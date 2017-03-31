@@ -5,7 +5,7 @@ import org.springframework.stereotype.Component;
 /**
  * BloomFilterTokenVerifier
  * 
- * @author vladimir.stankovic
+ * @author Sanjeet
  *
  * Aug 17, 2016
  */

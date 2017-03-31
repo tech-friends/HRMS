@@ -11,7 +11,7 @@ import in.tech.friends.hrms.security.model.UserContext;
 /**
  * End-point for retrieving logged-in user details.
  * 
- * @author vladimir.stankovic
+ * @author Sanjeet
  *
  * Aug 4, 2016
  */

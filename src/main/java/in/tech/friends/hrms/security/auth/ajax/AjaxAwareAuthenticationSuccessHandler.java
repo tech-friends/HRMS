@@ -25,9 +25,9 @@ import in.tech.friends.hrms.security.model.token.JwtTokenFactory;
 /**
  * AjaxAwareAuthenticationSuccessHandler
  * 
- * @author vladimir.stankovic
+ * @author Sanjeet
  *
- *         Aug 3, 2016
+ *         Feb 5 2017
  */
 @Component
 public class AjaxAwareAuthenticationSuccessHandler implements AuthenticationSuccessHandler {

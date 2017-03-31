@@ -5,9 +5,9 @@ import com.fasterxml.jackson.annotation.JsonValue;
 /**
  * Enumeration of REST Error types.
  * 
- * @author vladimir.stankovic
+ * @author Sanjeet
  *
- *         Aug 3, 2016
+ *         Feb 5 2017
  */
 public enum ErrorCode {
     GLOBAL(2),

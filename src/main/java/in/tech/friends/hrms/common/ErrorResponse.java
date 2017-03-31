@@ -7,9 +7,9 @@ import org.springframework.http.HttpStatus;
 /**
  * Error model for interacting with client.
  * 
- * @author vladimir.stankovic
+ * @author Sanjeet
  *
- * Aug 3, 2016
+ * Feb 5 2017
  */
 public class ErrorResponse {
     // HTTP Response Status Code

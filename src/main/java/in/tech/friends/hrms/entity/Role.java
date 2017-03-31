@@ -3,7 +3,7 @@ package in.tech.friends.hrms.entity;
 /**
  * Enumerated {@link User} roles.
  * 
- * @author vladimir.stankovic
+ * @author Sanjeet
  *
  * Aug 16, 2016
  */
