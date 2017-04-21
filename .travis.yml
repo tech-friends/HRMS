@@ -14,3 +14,4 @@ deploy:
   provider: heroku
   api_key:
     secure: "3f668bb8-c3fb-43b4-aefe-f268a5436c43"
+  app: sanjeetjh-hrms
